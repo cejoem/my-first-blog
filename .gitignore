@@ -1,0 +1,4 @@
+*.pyc
+__pycache__
+myenvvdb.sqlite3
+.DS_Store
